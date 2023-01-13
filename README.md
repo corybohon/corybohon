@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @corybohon
 - 👀 I’m interested in Apple Platforms, Swift, SwiftUI, and server development
 - 🌱 I’m currently learning backend server API development
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on iOS libraries and API development
 - 📫 How to reach me 
   * Mastodon: [@corybohon@mastodon.social](https://mastodon.social/@corybohon)
   * Twitter: [@coryb](https://twitter.com/coryb)

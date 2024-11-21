@@ -4,11 +4,12 @@
 - 💞️ I’m looking to collaborate on iOS libraries and API development
 - 📫 How to reach me 
   * Mastodon: [@corybohon@mastodon.social](https://mastodon.social/@corybohon)
-  * Twitter: [@coryb](https://twitter.com/coryb)
+  * Bluesky: [@corybohon.com](https://bsky.app/profile/corybohon.com)
+  * Threads: [@corybohon](https://www.threads.net/@corybohon)
   * Instagram: [corybohon](https://instagram.com/corybohon)
   * [LinkedIn](https://www.linkedin.com/in/corybohon/)
   * [Apple Music](https://itunes.apple.com/profile/corybohon)
-  * [Good Reads](https://www.goodreads.com/user/show/66376829-cory-bohon)
+  * [GoodReads](https://www.goodreads.com/user/show/66376829-cory-bohon)
 
 
 <!---
